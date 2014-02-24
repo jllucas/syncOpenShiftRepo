@@ -122,7 +122,7 @@
     <div class="brand-text"><strong>Open</strong>Shift</div>
   </a>
   <h1>
-    ¡¡¡Welcome Jose Luis!!!
+    THIS IS STRATOS
   </h1>
   <p>
     Place your application here
